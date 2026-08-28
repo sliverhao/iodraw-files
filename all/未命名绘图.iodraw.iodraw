@@ -34,8 +34,8 @@
         <mxCell id="ohd4XGkScQ2aKtFHn1ub-8" value="数据清理与统计分析&lt;div style=&quot;font-size: 18px;&quot;&gt;（主要：PFS评分；次要：白细胞计数（WBC）变化、血小板、血红蛋白变化等）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="250" y="660" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ohd4XGkScQ2aKtFHn1ub-73" value="" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="860" width="185" height="60" as="geometry" />
+        <mxCell id="ohd4XGkScQ2aKtFHn1ub-73" value="成果发表" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="860" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
