@@ -19,7 +19,7 @@
         <mxCell id="ohd4XGkScQ2aKtFHn1ub-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ohd4XGkScQ2aKtFHn1ub-4" target="ohd4XGkScQ2aKtFHn1ub-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ohd4XGkScQ2aKtFHn1ub-4" value="记录基线信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ohd4XGkScQ2aKtFHn1ub-4" value="&lt;span style=&quot;font-size: 18px; font-family: 宋体;&quot;&gt;访视&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;（第&lt;span lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;周&lt;br/&gt;± &lt;span lang=&quot;EN-US&quot;&gt;7&lt;/span&gt;天）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="360" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ohd4XGkScQ2aKtFHn1ub-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ohd4XGkScQ2aKtFHn1ub-6" target="ohd4XGkScQ2aKtFHn1ub-8">
