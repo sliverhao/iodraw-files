@@ -28,8 +28,14 @@
         <mxCell id="ohd4XGkScQ2aKtFHn1ub-6" value="&lt;div&gt;观察随访期&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;访视&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 18px;&quot;&gt;3：&lt;/span&gt;第&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 18px;&quot;&gt;8&lt;/span&gt;周 ± &lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 18px;&quot;&gt;7&lt;/span&gt;天&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="300" y="500" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ohd4XGkScQ2aKtFHn1ub-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ohd4XGkScQ2aKtFHn1ub-8" target="ohd4XGkScQ2aKtFHn1ub-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ohd4XGkScQ2aKtFHn1ub-8" value="数据清理与统计分析&lt;div style=&quot;font-size: 18px;&quot;&gt;（主要：PFS评分；次要：白细胞计数（WBC）变化、血小板、血红蛋白变化等）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="250" y="660" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ohd4XGkScQ2aKtFHn1ub-73" value="" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="860" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
