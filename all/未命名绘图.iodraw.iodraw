@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ohd4XGkScQ2aKtFHn1ub-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;访视1：第-7天 ~ 0天&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="220" width="220" height="60" as="geometry" />
+          <mxGeometry x="295" y="200" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ohd4XGkScQ2aKtFHn1ub-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ohd4XGkScQ2aKtFHn1ub-4" target="ohd4XGkScQ2aKtFHn1ub-6">
           <mxGeometry relative="1" as="geometry" />
